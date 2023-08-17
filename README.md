@@ -1,2 +1,2 @@
 # IniPerpus
-Aplikasi Sistem Informasi perpustakaan dengan Menggunakan PHP dan MySQL.
+Aplikasi CRUD Sistem Informasi perpustakaan dengan Menggunakan PHP, Javascript dan MySQL.
